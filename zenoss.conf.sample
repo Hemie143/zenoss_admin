@@ -1,0 +1,4 @@
+[my_zenoss]
+ZENOSS_INSTANCE = 'http://ZENOSS-SERVER:8080'
+ZENOSS_USERNAME = 'admin'
+ZENOSS_PASSWORD = 'zenoss'
